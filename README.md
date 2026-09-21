@@ -13,6 +13,8 @@ techflow-website/
 └── .github/
     └── workflows/
         └── deploy.yml  # GitHub Actions deployment workflow
+
+[![Deploy to GitHub Pages](https://github.com/mattiondeangelo25-eng/Gitcollab/actions/workflows/deploy.yml/badge.svg)](https://github.com/mattiondeangelo25-eng/Gitcollab/actions/workflows/deploy.yml)
 ```
 
 ## Features
