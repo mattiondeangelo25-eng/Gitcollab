@@ -1,4 +1,4 @@
-What triggers this workflow to run? (Look at the on: section)
+-What triggers this workflow to run? (Look at the on: section)
 on:
   push:
     branches: [ main ]
